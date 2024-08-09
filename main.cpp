@@ -20,7 +20,7 @@ int rollUntilNumberShows(Die &die, int sideChosen);
 
 void testEmailValidator();
 void testConsoleLog();
-void testHowManyRolls();
+// void testHowManyRolls();
 
 
 
@@ -28,7 +28,7 @@ int main() {
 	srand(time(0));
 	//testEmailValidator();
 	// testConsoleLog();
-	// testHowManyRolls();
+	testHowManyRolls();
 	return 0;
 }
 
@@ -124,7 +124,7 @@ void testConsoleLog()
 void testHowManyRolls()
 {
 	int n;
-	cout << "Enter an int: ";
+	cout << "Enter an int(1-365): ";
 	cin >> n;
 	Die die (365);
 	int numberOfRolls = rollUntilNumberShows( die, n);

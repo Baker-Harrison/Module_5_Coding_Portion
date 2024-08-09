@@ -13,7 +13,7 @@ class Die
 private:
 	std::string shape;
 	int sideShowing;
-	int numberOfRolls;
+	int numberOfRolls = 0;
 public:
 	const int numberOfSides;
 	Die(int numberOfSides ) : numberOfSides(numberOfSides), shape("") {
