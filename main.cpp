@@ -20,7 +20,7 @@ int rollUntilNumberShows(Die &die, int sideChosen);
 
 void testEmailValidator();
 void testConsoleLog();
-// void testHowManyRolls();
+void testHowManyRolls();
 
 
 
