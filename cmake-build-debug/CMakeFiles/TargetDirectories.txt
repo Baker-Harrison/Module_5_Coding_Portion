@@ -1,0 +1,3 @@
+/Users/harrisonbaker/CLionProjects/Module-5-Coding-Portion/cmake-build-debug/CMakeFiles/Module_5_Coding_Portion.dir
+/Users/harrisonbaker/CLionProjects/Module-5-Coding-Portion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/harrisonbaker/CLionProjects/Module-5-Coding-Portion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
